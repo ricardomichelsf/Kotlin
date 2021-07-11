@@ -1,6 +1,7 @@
 fun main(args: Array<String>){
 
-    val idade = 100
+    print("Digite a sua idade: ")
+    val idade = readLine()?.toInt()!!
 
     when(idade){
         in 1..17 -> print("Criança")
