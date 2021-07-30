@@ -2,11 +2,11 @@ import java.util.*
 
 fun main(args: Array<String>) {
 
-    val paises = arrayOf("Angola", "Braail", "Chile", "EUA") // criar array
+    val paises = arrayOf("Angola", "Brasil", "Chile", "EUA") // criar array
 
-    val  item = paises[2]  // acessar elemento
+    //val  item = paises[2]  // acessar elemento
 
-    val tamanho = paises.count()
+    //val tamanho = paises.count()
 
     //val Paises = Array(12, {3})
 
